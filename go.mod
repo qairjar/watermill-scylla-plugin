@@ -1,4 +1,4 @@
-module gitlab.cloud.halykbank.nb/di/scylla-plugin
+module github.com/qairjar/watermill-scylla-plugin
 
 go 1.16
 
